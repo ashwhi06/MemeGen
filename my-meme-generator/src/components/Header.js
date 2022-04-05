@@ -1,5 +1,5 @@
 import React from 'react';
-import troll from '../images/troll-face.png'
+import troll from '../images/troll-face.png';
 
 export default function Header() {
     return (
